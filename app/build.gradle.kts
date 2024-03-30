@@ -42,6 +42,7 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:1.1.3")
     implementation("io.reactivex.rxjava2:rxandroid:2.1.1")
     implementation("io.reactivex.rxjava2:rxjava:2.2.9")
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation("com.squareup.retrofit2:adapter-rxjava2:2.7.0")
     implementation("com.squareup.retrofit2:converter-gson:2.7.0")
 
